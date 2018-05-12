@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1113
     wikipedia: http://en.wikipedia.org/wiki/Ralph_Delahaye_Paine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33318#The-Book-of-Buried-Treasure--13-Being-a-True-History-of-the-Gold-Jewels-and-Plate-of-Pirates-_
 gutenberg_issued: '2010-08-01'
 gutenberg_type: Text
 identifiers:
